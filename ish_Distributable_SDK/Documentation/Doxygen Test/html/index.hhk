@@ -1,0 +1,521 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_i_s_h_8cpp.html#a4c4aae3999c54b343533943a3766d1b8"><param name="Name" value="_input"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a3b98e2dffc6cb06a89dcb0d5c60a0206"><param name="Name" value="A"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a9321010fd301b2bd3a2238350b35b713"><param name="Name" value="Add"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a9d3d9048db16a7eee539e93e3618cbe7"><param name="Name" value="B"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a8fee0efaea2d344fc8b612548d324a0e"><param name="Name" value="Back"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#abc015052cea3773c647f2e41c110b750"><param name="Name" value="Clear"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a6511e77ff7a4c1afa55fb69de2d9fd7f"><param name="Name" value="CopyPointer"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_lib_def_8h.html#aa4c7a931f4a968f818b2a1b10a432185"><param name="Name" value="DECLSPEC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a50f353ab7a3e52b5c0f1252dd8ed10f8"><param name="Name" value="DeleteSection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a73ea69456bcb117790f82e7c79e5ba77"><param name="Name" value="DeleteSectionA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a84ec51b52145dc8ebb0406624e944c68"><param name="Name" value="DeleteSectionW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a4340a0b0342e88549d0ccd3171c16c5b"><param name="Name" value="DpadDown"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aa17d52fa9f1a1e8e81dc2dec2544f6eb"><param name="Name" value="DpadLeft"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ac3fb8b94a2e7154d664496d0ec2b91fa"><param name="Name" value="DpadRight"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a50547e50887a535b7968a98bbe595419"><param name="Name" value="DpadUp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a4c1545b6b63ef8238aa55cba46d446d0"><param name="Name" value="GetInputValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#ad1d41e57c53f4eacf890f327bba2316a"><param name="Name" value="GetInstance"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#ad1d41e57c53f4eacf890f327bba2316a"><param name="Name" value="ish::InputManager"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#abdc79cfe9602e4ce0567487ec6ef9712"><param name="Name" value="ish::Singleton"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a6352468108642e603500bee85866b7be"><param name="Name" value="GetInstancePtr"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a59fabe01fe0b5672e8b237ebab60fb63"><param name="Name" value="GetLeftTrigger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a763f53e28a449f67da0c80e03384eaa4"><param name="Name" value="GetLeftX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a122ac8afaea4c0098c1054560bbce3b2"><param name="Name" value="GetLeftY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a603e1a9a5aa8c4e313159b420cc569eb"><param name="Name" value="GetNumberOfPlayers"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a6cae2ef8d2f59ea30e4bab31162696b5"><param name="Name" value="GetPad"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a7fe2131cefa014a31a51bf2387557a7e"><param name="Name" value="GetPreviousState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a7fe2131cefa014a31a51bf2387557a7e"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ae5ce0e0cc22858ab9d9ee698ff3be81a"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a779c5032535c4207c674e8f9d567cb3f"><param name="Name" value="GetRightTrigger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a99b07e5078686356da6fe827ab4db9c3"><param name="Name" value="GetRightX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ac0f56cd51cf33362e96f434c4ef24e8d"><param name="Name" value="GetRightY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a8894b8497cb8fbb4599dc98949057a8e"><param name="Name" value="GetSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a0fe8b0530b2b288302338b8d86d4154a"><param name="Name" value="GetState"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a0fe8b0530b2b288302338b8d86d4154a"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a07d1d35063ebc81c49314ae3f9d867cb"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a844ea1c7bdad7b2fbc4cae893902cec6"><param name="Name" value="GetValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html"><param name="Name" value="HashTable"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a9321010fd301b2bd3a2238350b35b713"><param name="Name" value="Add"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#abc015052cea3773c647f2e41c110b750"><param name="Name" value="Clear"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a6511e77ff7a4c1afa55fb69de2d9fd7f"><param name="Name" value="CopyPointer"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a8894b8497cb8fbb4599dc98949057a8e"><param name="Name" value="GetSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a822b6f904f722c4956542b60dcccca2d"><param name="Name" value="HashTable"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#ada22fb0cb8064e718669f4cf18d730ee"><param name="Name" value="Remove"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a97b11f30145b9a69e985b06a07d808d7"><param name="Name" value="TryGetValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a5aa8f18c49de4d6b774a66e6dc5be0c0"><param name="Name" value="~HashTable"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a38c8d1a29a319a0aee4469d6704a15ca"><param name="Name" value="IDevice"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a9124199a9da3f69ecb433f3605535f44"><param name="Name" value="IniHandler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a35caff458c3412a9713358abb360a424"><param name="Name" value="Initialize"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a35caff458c3412a9713358abb360a424"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a495e0fb836ad87a120f984aa1db1f625"><param name="Name" value="ish::InputManager"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a9315e07c3248bf9d2362488fb5abb5d6"><param name="Name" value="ish::ISH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a45af810a75d470c4bd64aaa00fdc0d83"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa759978eea99e08cf18363e9fe80f479"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#af535b7c1464cc9c1e89c16d024bc8c4b"><param name="Name" value="IsConnected"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a7893765d74cd300e51007035341c170d"><param name="Name" value="IsDown"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a7893765d74cd300e51007035341c170d"><param name="Name" value="ish"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a26a1de15fb4af3f8b27acbe92cc6ccfc"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a8a9f4aba9836228809d1570726ae9b6f"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa22cc12bb62eb4c4d86e4fbec84c0c6d"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html"><param name="Name" value="ish"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_i_s_h_8cpp.html"><param name="Name" value="ISH.cpp"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html"><param name="Name" value="ish::IDevice"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a38c8d1a29a319a0aee4469d6704a15ca"><param name="Name" value="IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a35caff458c3412a9713358abb360a424"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a26a1de15fb4af3f8b27acbe92cc6ccfc"><param name="Name" value="IsDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a20b77a749c6e133deaa8d1f685da4d6b"><param name="Name" value="IsPressed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a2ef237503c3f534b61d252c370f0b7e5"><param name="Name" value="IsReleased"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#ae11498e27c4e920d4fc0d972d62ec8d6"><param name="Name" value="IsUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a3f5a679d7fa3d3082550c5bec4a33c79"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a76bd9fd13064f81a4ac232f7efcceb23"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html"><param name="Name" value="ish::IniHandler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a50f353ab7a3e52b5c0f1252dd8ed10f8"><param name="Name" value="DeleteSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a73ea69456bcb117790f82e7c79e5ba77"><param name="Name" value="DeleteSectionA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a84ec51b52145dc8ebb0406624e944c68"><param name="Name" value="DeleteSectionW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a9124199a9da3f69ecb433f3605535f44"><param name="Name" value="IniHandler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a7b9797a8efe0411d680cedc5dbbf82a7"><param name="Name" value="ReadString"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#aff212d1862d07258d5351b4f6d3e8255"><param name="Name" value="ReadStringA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a48dafdb6eed4716deb25d9b9b10a7f45"><param name="Name" value="ReadStringW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#abcc58fd1e9058c5e193434bc235c99fd"><param name="Name" value="ReadValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a87e7484f407fb52e227c21085da7ce7d"><param name="Name" value="ReadValueA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a32d2a81cc5b16afc942a422678d2634e"><param name="Name" value="ReadValueW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#ae4300e953f31340e4ce567fd36595292"><param name="Name" value="WriteSection"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a90f160df3b00fb4e7c61b338e167000b"><param name="Name" value="WriteSectionA"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a4f3a70dfc624ffa2cbc4c6b7d4485c3b"><param name="Name" value="WriteSectionW"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a298b8b5d16a8ff7c43d42f3b66c5d1f3"><param name="Name" value="~IniHandler"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html"><param name="Name" value="ish::InputManager"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#ad1d41e57c53f4eacf890f327bba2316a"><param name="Name" value="GetInstance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a603e1a9a5aa8c4e313159b420cc569eb"><param name="Name" value="GetNumberOfPlayers"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a6cae2ef8d2f59ea30e4bab31162696b5"><param name="Name" value="GetPad"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a844ea1c7bdad7b2fbc4cae893902cec6"><param name="Name" value="GetValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a495e0fb836ad87a120f984aa1db1f625"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#aa31bd34de2ce87020cb4b820b729284e"><param name="Name" value="LoadKeyConfig"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a56eddf9445072bc1c2f280451eb91e89"><param name="Name" value="SetInput"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a3248330184994ab220a440a50b5366ec"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#afc344b3b2e204cfb39ee17b33bcc5eab"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a0bb34282a7684357e42123bb97a76afe"><param name="Name" value="~InputManager"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html"><param name="Name" value="ish::ISH"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a4c1545b6b63ef8238aa55cba46d446d0"><param name="Name" value="GetInputValue"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a9315e07c3248bf9d2362488fb5abb5d6"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a277614eb43a10c8c0572214108cc46e5"><param name="Name" value="LoadKeyData"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#aeced765a66cf4fddad741fb7c24391a8"><param name="Name" value="SetInput"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a6f98880c1cf9fe989eca64724f1b411a"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#ae34067b72bd24bb34e83141d14f1307f"><param name="Name" value="Update"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html"><param name="Name" value="ish::Singleton"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#abdc79cfe9602e4ce0567487ec6ef9712"><param name="Name" value="GetInstance"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a6352468108642e603500bee85866b7be"><param name="Name" value="GetInstancePtr"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a346c75351c452d746554be057d4a7151"><param name="Name" value="Singleton"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a85b7f1ce4edeb076c4aedd3b125e0023"><param name="Name" value="~Singleton"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a7fe2131cefa014a31a51bf2387557a7e"><param name="Name" value="GetPreviousState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a0fe8b0530b2b288302338b8d86d4154a"><param name="Name" value="GetState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a45af810a75d470c4bd64aaa00fdc0d83"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a8a9f4aba9836228809d1570726ae9b6f"><param name="Name" value="IsDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#aca66b46d40e14279cd02ba8998d3073c"><param name="Name" value="IsPressed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a090511f4ad5c9dc38f98cc5a43d97883"><param name="Name" value="IsReleased"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a228a78bc16de89ed00c7016664596f59"><param name="Name" value="IsUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#ae0ff771149b6c39262539be4af538ae4a4da4d658ced263b0f29bda446afae722"><param name="Name" value="KEY_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af08ab084f00cd643289a0a8236fbb07b"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af3d641c744f87f2da880c605646ee4d6"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#aa7158b6f890377466027e81d02460ff6"><param name="Name" value="WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af51f5c06c6e868c60ee3d6f11a4b06fd"><param name="Name" value="~WinKeyboard"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html"><param name="Name" value="ish::XboxPad"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a59fabe01fe0b5672e8b237ebab60fb63"><param name="Name" value="GetLeftTrigger"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a763f53e28a449f67da0c80e03384eaa4"><param name="Name" value="GetLeftX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a122ac8afaea4c0098c1054560bbce3b2"><param name="Name" value="GetLeftY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ae5ce0e0cc22858ab9d9ee698ff3be81a"><param name="Name" value="GetPreviousState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a779c5032535c4207c674e8f9d567cb3f"><param name="Name" value="GetRightTrigger"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a99b07e5078686356da6fe827ab4db9c3"><param name="Name" value="GetRightX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ac0f56cd51cf33362e96f434c4ef24e8d"><param name="Name" value="GetRightY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a07d1d35063ebc81c49314ae3f9d867cb"><param name="Name" value="GetState"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa759978eea99e08cf18363e9fe80f479"><param name="Name" value="Initialize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#af535b7c1464cc9c1e89c16d024bc8c4b"><param name="Name" value="IsConnected"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa22cc12bb62eb4c4d86e4fbec84c0c6d"><param name="Name" value="IsDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa385ec3748264e7292b6ac85d99fd334"><param name="Name" value="IsPressed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a41d4999f69ca8dbc23fa9bfc76918cf0"><param name="Name" value="IsReleased"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aee3cb89b3ce63d4a36937b6fc7090123"><param name="Name" value="IsUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ac317559ff10dbcf3183aa084cd0328d7"><param name="Name" value="operator="></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a194f28a50e9904de7e30d03f6b1172cc"><param name="Name" value="Shutdown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a89e73fbf70c763475c14cdafe4e51fff"><param name="Name" value="Update"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aec21d08d327f9ac02c0d513e50802b02"><param name="Name" value="XboxPad"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#afa0fb7239f65c4d7667343a8ba4d4861"><param name="Name" value="~XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html"><param name="Name" value="ish"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a7893765d74cd300e51007035341c170d"><param name="Name" value="IsDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a62bd130b7242aac911b7008e98d209e1"><param name="Name" value="IsPressed"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2ad15d630c236faa68435f6418550abd81"><param name="Name" value="IsReleased"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2aaa586fccdae7794e5767e50106025190"><param name="Name" value="IsUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcacab3f94e7cf64ed7ac5ea3c10bf45c85"><param name="Name" value="NoSave"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aeade19b11bd8cd1d2b32de8ed0cfa4bf3d"><param name="Name" value="PlayerFour"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aeada6681214a697894ea55dc38838f2ec6"><param name="Name" value="PlayerMax"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea2a423f2fbcb102cb72d8e225a0386ed7"><param name="Name" value="PlayerOne"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea98d7887789b35ee53efc110ef89278e8"><param name="Name" value="PlayerThree"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea7af766ad90ea8653cca86bef0ae14ae1"><param name="Name" value="PlayerTwo"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dca9d67f3ac3c51f741ef36253d8af14d15"><param name="Name" value="SaveAdd"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcaef83f3c2d9c4a191215c25679d83adc8"><param name="Name" value="SaveOnly"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcae70a4f325f8384f06c7538566c00e4c0"><param name="Name" value="SaveReload"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a62bd130b7242aac911b7008e98d209e1"><param name="Name" value="IsPressed"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2a62bd130b7242aac911b7008e98d209e1"><param name="Name" value="ish"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a20b77a749c6e133deaa8d1f685da4d6b"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#aca66b46d40e14279cd02ba8998d3073c"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aa385ec3748264e7292b6ac85d99fd334"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2ad15d630c236faa68435f6418550abd81"><param name="Name" value="IsReleased"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2ad15d630c236faa68435f6418550abd81"><param name="Name" value="ish"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a2ef237503c3f534b61d252c370f0b7e5"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a090511f4ad5c9dc38f98cc5a43d97883"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a41d4999f69ca8dbc23fa9bfc76918cf0"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2aaa586fccdae7794e5767e50106025190"><param name="Name" value="IsUp"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#ae93c829ff83c90fe3ef30f7cee7170d2aaa586fccdae7794e5767e50106025190"><param name="Name" value="ish"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#ae11498e27c4e920d4fc0d972d62ec8d6"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#a228a78bc16de89ed00c7016664596f59"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aee3cb89b3ce63d4a36937b6fc7090123"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#ae0ff771149b6c39262539be4af538ae4a4da4d658ced263b0f29bda446afae722"><param name="Name" value="KEY_SIZE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a2f523d9c780830faa7efc0fab2e72fe1"><param name="Name" value="LeftShoulder"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a93a4432f1d04ee67fe4b893101f07949"><param name="Name" value="LeftThumb"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ae1923c23b72df850f626ac98d17660d0"><param name="Name" value="LeftThumbX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aab253551a267158302da8be8533862e8"><param name="Name" value="LeftThumbY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a814b6cfe44160fa8636c726d89df1f6e"><param name="Name" value="LeftTrigger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_lib_def_8h.html"><param name="Name" value="LibDef.h"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#aa31bd34de2ce87020cb4b820b729284e"><param name="Name" value="LoadKeyConfig"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a277614eb43a10c8c0572214108cc46e5"><param name="Name" value="LoadKeyData"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcacab3f94e7cf64ed7ac5ea3c10bf45c85"><param name="Name" value="NoSave"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#ac317559ff10dbcf3183aa084cd0328d7"><param name="Name" value="operator="></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ad3cad40b818fa70fbc4092e49b812eb2"><param name="Name" value="PLAYER_FOUR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ab79236d5701fcff57ad4193ed7747f0f"><param name="Name" value="PLAYER_MAX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a83c36d8b584a584e8da7ba3e346876ab"><param name="Name" value="PLAYER_ONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ad86f4429c49da28cb2143457e139495d"><param name="Name" value="PLAYER_THREE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a3790622a985365d3ff277f3c86ef0b49"><param name="Name" value="PLAYER_TWO"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aeade19b11bd8cd1d2b32de8ed0cfa4bf3d"><param name="Name" value="PlayerFour"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aeada6681214a697894ea55dc38838f2ec6"><param name="Name" value="PlayerMax"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea2a423f2fbcb102cb72d8e225a0386ed7"><param name="Name" value="PlayerOne"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea98d7887789b35ee53efc110ef89278e8"><param name="Name" value="PlayerThree"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#a707da3227b041464d1ee0f112c1683aea7af766ad90ea8653cca86bef0ae14ae1"><param name="Name" value="PlayerTwo"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a7b9797a8efe0411d680cedc5dbbf82a7"><param name="Name" value="ReadString"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#aff212d1862d07258d5351b4f6d3e8255"><param name="Name" value="ReadStringA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a48dafdb6eed4716deb25d9b9b10a7f45"><param name="Name" value="ReadStringW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#abcc58fd1e9058c5e193434bc235c99fd"><param name="Name" value="ReadValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a87e7484f407fb52e227c21085da7ce7d"><param name="Name" value="ReadValueA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a32d2a81cc5b16afc942a422678d2634e"><param name="Name" value="ReadValueW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#ada22fb0cb8064e718669f4cf18d730ee"><param name="Name" value="Remove"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aaa2215ac13de66a1074b0334187461fd"><param name="Name" value="RightShoulder"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a84728a812db36dfb8b241e463778fa66"><param name="Name" value="RightThumb"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aac97a7b79cd7bdc73f72f71d45f37edf"><param name="Name" value="RightThumbX"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ae276e0661e88973c5a345d304771bfea"><param name="Name" value="RightThumbY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a27e43850bebbce8268535c1a8c054a01"><param name="Name" value="RightTrigger"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dca9d67f3ac3c51f741ef36253d8af14d15"><param name="Name" value="SaveAdd"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcaef83f3c2d9c4a191215c25679d83adc8"><param name="Name" value="SaveOnly"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="namespaceish.html#acdbde188755e28894479ef349492e0dcae70a4f325f8384f06c7538566c00e4c0"><param name="Name" value="SaveReload"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a56eddf9445072bc1c2f280451eb91e89"><param name="Name" value="SetInput"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a56eddf9445072bc1c2f280451eb91e89"><param name="Name" value="ish::InputManager"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#aeced765a66cf4fddad741fb7c24391a8"><param name="Name" value="ish::ISH"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a3f5a679d7fa3d3082550c5bec4a33c79"><param name="Name" value="Shutdown"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a3f5a679d7fa3d3082550c5bec4a33c79"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a3248330184994ab220a440a50b5366ec"><param name="Name" value="ish::InputManager"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#a6f98880c1cf9fe989eca64724f1b411a"><param name="Name" value="ish::ISH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af08ab084f00cd643289a0a8236fbb07b"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a194f28a50e9904de7e30d03f6b1172cc"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a346c75351c452d746554be057d4a7151"><param name="Name" value="Singleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aedcef5fb0e94ecd6e477e87d7bb5b13a"><param name="Name" value="Start"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a97b11f30145b9a69e985b06a07d808d7"><param name="Name" value="TryGetValue"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a76bd9fd13064f81a4ac232f7efcceb23"><param name="Name" value="Update"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_device.html#a76bd9fd13064f81a4ac232f7efcceb23"><param name="Name" value="ish::IDevice"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#afc344b3b2e204cfb39ee17b33bcc5eab"><param name="Name" value="ish::InputManager"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_i_s_h.html#ae34067b72bd24bb34e83141d14f1307f"><param name="Name" value="ish::ISH"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af3d641c744f87f2da880c605646ee4d6"><param name="Name" value="ish::WinKeyboard"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#a89e73fbf70c763475c14cdafe4e51fff"><param name="Name" value="ish::XboxPad"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a0d7835c60240fe533b9bf235d3012bd7"><param name="Name" value="V_0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4c2afd6b2a0215e512c2b86f5b2d8360"><param name="Name" value="V_1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ace1543f3f066aa89fddad77278e5621a"><param name="Name" value="V_2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5a2e7252bbb9b58f43be20f328af02c8"><param name="Name" value="V_3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a12044b6783965f9b270d9cb00be677a6"><param name="Name" value="V_4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5168973a768e63741dc1507dd692f84e"><param name="Name" value="V_5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#abace6c3afa7875835610e6b0bbde4f67"><param name="Name" value="V_6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a92919124b69102cf9b48acf8b717ffee"><param name="Name" value="V_7"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#acb26ca1ef15406bd95e829b7a15617de"><param name="Name" value="V_8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab6a16beab98e03c6458ee400028e35ac"><param name="Name" value="V_9"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab86c3ae27e89f6a007fc336a7b595606"><param name="Name" value="V_A"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a728a69d3c53e38d66b06bb2e34aa4754"><param name="Name" value="V_ADD"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a040220c755133c28fb26813a2f1f9f8f"><param name="Name" value="V_B"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad279d3a5368b8a34fcbb2b7c2636afc1"><param name="Name" value="V_C"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a368e7ec02ad6a9e6979a5a6a1c05f940"><param name="Name" value="V_CAPITAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3a2c6a26ec9df8787c73464ac2955dd1"><param name="Name" value="V_CLEAR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3a342a04f5482fb58f9a6a875acfde11"><param name="Name" value="V_CONTROL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ac47b7cafffe8e12caf1e21c23e99dbb6"><param name="Name" value="V_D"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab4eb8ac91416112ffba2999939a77411"><param name="Name" value="V_DECIMAL"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7edc812ebb426c4b17f045fd4e23c8bb"><param name="Name" value="V_DELETE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad59d482b78bcaab6c13089165a6b8e1d"><param name="Name" value="V_DIVIDE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4ecdad524c2cf63b98685ade34da1134"><param name="Name" value="V_DOWN"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4338e5da5474a0e3f302da4995658ed8"><param name="Name" value="V_E"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5bd1b65c990fcc840f8b89f41387f85c"><param name="Name" value="V_END"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#acc43edebc3042c31f1568f472a6b0f15"><param name="Name" value="V_ENTER"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6075628f2af00ca079078b6701713280"><param name="Name" value="V_ESCAPE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aae837a5c21624054c6355d6607093a59"><param name="Name" value="V_EXECUTE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a8f2d907276be24d698cf2ed15ed73dd3"><param name="Name" value="V_F10"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a65a9e69f08d23834bced88ae8fdcee00"><param name="Name" value="V_F11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a56db23c5ae3b02c64c68c6940c7abc9e"><param name="Name" value="V_F12"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7bd33ef224eb5b3ac276b3a14e707417"><param name="Name" value="V_F13"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab66417e9ab85ab29238f0868f7718c38"><param name="Name" value="V_F14"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a0a6b7f27650a4167c9cce4289c502619"><param name="Name" value="V_F15"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a68f38f7c2cfb8b5e373e7b4816eaea17"><param name="Name" value="V_F16"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a782bd774567ac4f7679d29622e81fa67"><param name="Name" value="V_F17"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#af74c0a81a0d5ef4b0fbe850f5d94c61b"><param name="Name" value="V_F18"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a686a4d1af79c10408e411c6471813b8a"><param name="Name" value="V_F19"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a8aa783b555b0447312779becdf940fcb"><param name="Name" value="V_F1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aba13946388073ca6f8924de826ea792f"><param name="Name" value="V_F20"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5a7b23c97b7e8c6be9af0c7ddf3e5ca5"><param name="Name" value="V_F21"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a910ac1fd1c91863a6c9b7e65e345a62b"><param name="Name" value="V_F22"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a96c5d06d04fd1ceaff4812de2fe793ed"><param name="Name" value="V_F23"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab078e83badb3cc6767005bb762e9d7cb"><param name="Name" value="V_F24"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a89539058b582630122311fa50c5b238c"><param name="Name" value="V_F2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a718b796fa5854825de35d976e43aa1c3"><param name="Name" value="V_F3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a30f1d0a6e9ea7baac34fd02b67acad01"><param name="Name" value="V_F4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a10dcf1d5c0165647d550a2d5880154a8"><param name="Name" value="V_F5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a928d9c729a9f5f0c67c3dd42e9b4448e"><param name="Name" value="V_F6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a73658e5ada52bbf7d974b77893d1d52f"><param name="Name" value="V_F7"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4b0e73c8f483eb33b002cf50487d2513"><param name="Name" value="V_F8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9e234ae95972902a68ae9259ae89b4c3"><param name="Name" value="V_F9"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aff72480fbdb4ec9da9c1d40482c3ff50"><param name="Name" value="V_F"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aef6b8e04ba0c3f15000a5cb24153b2df"><param name="Name" value="V_G"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab2c1dc95a44b35896de69620706729ce"><param name="Name" value="V_H"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad2c1cf23d5f18c49389cf2024eab13ed"><param name="Name" value="V_HELP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aaae5eb3f1ceaaca703c1caf539af3e88"><param name="Name" value="V_HOME"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a012ebf02662d81c78795a2167db787a9"><param name="Name" value="V_I"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a10479845498f32ec8f6d74b1adf89465"><param name="Name" value="V_INSERT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aab4e2a09b4ecfb6a6567e7b2c6e625ef"><param name="Name" value="V_J"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#add676e7e9d7b12a622217ae5b31cf5e1"><param name="Name" value="V_K"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aa4e71b56302b695fe0747ddfafa4b30e"><param name="Name" value="V_L"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a602cbe47aca02f06a9a4e172c0e8f426"><param name="Name" value="V_LEFT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9444086c5f7e8e9e1fbbe529c852666a"><param name="Name" value="V_M"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7ea214a65873ae04f139382131e05b55"><param name="Name" value="V_MENU"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4fe6250d02a672a29d51f5ff42cca16f"><param name="Name" value="V_MULTIPLY"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9962e4aebb659ea5c442618bf121d604"><param name="Name" value="V_N"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a234773417715218ef0907fcd8cd8c7df"><param name="Name" value="V_NEXT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a2267eba1cec6efca16f947b5dd51f5ee"><param name="Name" value="V_NONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#afeeb1a2249652bdfe984ab88d9761beb"><param name="Name" value="V_NUMPAD0"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a89809aa3c60d35df45bffcf1ba2d8e83"><param name="Name" value="V_NUMPAD1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a30ebc61f2ee2d49e44cf366d3262adb6"><param name="Name" value="V_NUMPAD2"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#accb11876da43356da9c4732bd439f25b"><param name="Name" value="V_NUMPAD3"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a2553e4a030aac57b0e96aaf25670be28"><param name="Name" value="V_NUMPAD4"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#afa6738568801efc110f0d5fdcaa3fc06"><param name="Name" value="V_NUMPAD5"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4de12edc74042c1e835dc78f1fd9d275"><param name="Name" value="V_NUMPAD6"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab617f9dbc28982b384e0853314a6ff13"><param name="Name" value="V_NUMPAD7"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a689728567b0952114261470dae39595b"><param name="Name" value="V_NUMPAD8"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ac3e5b7a4c40aaa2576d0d5d87ef1c021"><param name="Name" value="V_NUMPAD9"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a22e5c46c4f67f274106a94531b69a2ab"><param name="Name" value="V_O"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a843811ed027c241119ce263734895b9f"><param name="Name" value="V_P"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab3d56d778eb83d19f26ac6141cafb637"><param name="Name" value="V_PAUSE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a581554e6be604ef01ede3485015ed960"><param name="Name" value="V_PRINT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ae3c93d6e6e798fb5310d6c6297a2d90c"><param name="Name" value="V_PRIOR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a67b0514c3e7722727e8b9c68383ccde6"><param name="Name" value="V_Q"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab039426750379a570b48f867d6722c1e"><param name="Name" value="V_R"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a99f64f874ff2e726c51e491ca254c374"><param name="Name" value="V_RIGHT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad87fa0f9db762a16c5af7e5e2014ffa1"><param name="Name" value="V_S"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a172e4244efb9e4bd24f28bda0c9d9f91"><param name="Name" value="V_SELECT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#af1010e0a7031fe7b8299a504d3433b3b"><param name="Name" value="V_SEPARATOR"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6c2ed89dd9fd5a22925f5b41c996f7f6"><param name="Name" value="V_SHIFT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a259310ef5da6183fb1b3380838765002"><param name="Name" value="V_SNAPSHOT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a69e8edbb92321dc74a2b5c4ea8df255c"><param name="Name" value="V_SPACE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a058617de339f1f458d904c2a7b9b763e"><param name="Name" value="V_SUBTRACT"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5e21febd3b1e6df435d52f8ce40f3dd5"><param name="Name" value="V_T"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6ef5a5e96b83897bf32ebf6fc5be6d68"><param name="Name" value="V_U"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6608741e15f47170cdfa1fe66961c3e6"><param name="Name" value="V_UP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5204e69507a94b97a64defbda5929d9e"><param name="Name" value="V_V"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a01b41f24a33eba234a8abda30af8eb7c"><param name="Name" value="V_W"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3b81a618d3fc660b4ac2cdd448cdff40"><param name="Name" value="V_X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a43f31fb79e8c08a17a974ccbb55a3806"><param name="Name" value="V_Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad3a5a8f32a3f26ae7c731a417b94a096"><param name="Name" value="V_Z"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html"><param name="Name" value="WinKeyboard.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a0d7835c60240fe533b9bf235d3012bd7"><param name="Name" value="V_0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4c2afd6b2a0215e512c2b86f5b2d8360"><param name="Name" value="V_1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ace1543f3f066aa89fddad77278e5621a"><param name="Name" value="V_2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5a2e7252bbb9b58f43be20f328af02c8"><param name="Name" value="V_3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a12044b6783965f9b270d9cb00be677a6"><param name="Name" value="V_4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5168973a768e63741dc1507dd692f84e"><param name="Name" value="V_5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#abace6c3afa7875835610e6b0bbde4f67"><param name="Name" value="V_6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a92919124b69102cf9b48acf8b717ffee"><param name="Name" value="V_7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#acb26ca1ef15406bd95e829b7a15617de"><param name="Name" value="V_8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab6a16beab98e03c6458ee400028e35ac"><param name="Name" value="V_9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab86c3ae27e89f6a007fc336a7b595606"><param name="Name" value="V_A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a728a69d3c53e38d66b06bb2e34aa4754"><param name="Name" value="V_ADD"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a040220c755133c28fb26813a2f1f9f8f"><param name="Name" value="V_B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad279d3a5368b8a34fcbb2b7c2636afc1"><param name="Name" value="V_C"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a368e7ec02ad6a9e6979a5a6a1c05f940"><param name="Name" value="V_CAPITAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3a2c6a26ec9df8787c73464ac2955dd1"><param name="Name" value="V_CLEAR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3a342a04f5482fb58f9a6a875acfde11"><param name="Name" value="V_CONTROL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ac47b7cafffe8e12caf1e21c23e99dbb6"><param name="Name" value="V_D"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab4eb8ac91416112ffba2999939a77411"><param name="Name" value="V_DECIMAL"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7edc812ebb426c4b17f045fd4e23c8bb"><param name="Name" value="V_DELETE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad59d482b78bcaab6c13089165a6b8e1d"><param name="Name" value="V_DIVIDE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4ecdad524c2cf63b98685ade34da1134"><param name="Name" value="V_DOWN"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4338e5da5474a0e3f302da4995658ed8"><param name="Name" value="V_E"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5bd1b65c990fcc840f8b89f41387f85c"><param name="Name" value="V_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#acc43edebc3042c31f1568f472a6b0f15"><param name="Name" value="V_ENTER"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6075628f2af00ca079078b6701713280"><param name="Name" value="V_ESCAPE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aae837a5c21624054c6355d6607093a59"><param name="Name" value="V_EXECUTE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aff72480fbdb4ec9da9c1d40482c3ff50"><param name="Name" value="V_F"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a8aa783b555b0447312779becdf940fcb"><param name="Name" value="V_F1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a8f2d907276be24d698cf2ed15ed73dd3"><param name="Name" value="V_F10"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a65a9e69f08d23834bced88ae8fdcee00"><param name="Name" value="V_F11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a56db23c5ae3b02c64c68c6940c7abc9e"><param name="Name" value="V_F12"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7bd33ef224eb5b3ac276b3a14e707417"><param name="Name" value="V_F13"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab66417e9ab85ab29238f0868f7718c38"><param name="Name" value="V_F14"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a0a6b7f27650a4167c9cce4289c502619"><param name="Name" value="V_F15"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a68f38f7c2cfb8b5e373e7b4816eaea17"><param name="Name" value="V_F16"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a782bd774567ac4f7679d29622e81fa67"><param name="Name" value="V_F17"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#af74c0a81a0d5ef4b0fbe850f5d94c61b"><param name="Name" value="V_F18"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a686a4d1af79c10408e411c6471813b8a"><param name="Name" value="V_F19"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a89539058b582630122311fa50c5b238c"><param name="Name" value="V_F2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aba13946388073ca6f8924de826ea792f"><param name="Name" value="V_F20"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5a7b23c97b7e8c6be9af0c7ddf3e5ca5"><param name="Name" value="V_F21"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a910ac1fd1c91863a6c9b7e65e345a62b"><param name="Name" value="V_F22"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a96c5d06d04fd1ceaff4812de2fe793ed"><param name="Name" value="V_F23"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab078e83badb3cc6767005bb762e9d7cb"><param name="Name" value="V_F24"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a718b796fa5854825de35d976e43aa1c3"><param name="Name" value="V_F3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a30f1d0a6e9ea7baac34fd02b67acad01"><param name="Name" value="V_F4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a10dcf1d5c0165647d550a2d5880154a8"><param name="Name" value="V_F5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a928d9c729a9f5f0c67c3dd42e9b4448e"><param name="Name" value="V_F6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a73658e5ada52bbf7d974b77893d1d52f"><param name="Name" value="V_F7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4b0e73c8f483eb33b002cf50487d2513"><param name="Name" value="V_F8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9e234ae95972902a68ae9259ae89b4c3"><param name="Name" value="V_F9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aef6b8e04ba0c3f15000a5cb24153b2df"><param name="Name" value="V_G"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab2c1dc95a44b35896de69620706729ce"><param name="Name" value="V_H"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad2c1cf23d5f18c49389cf2024eab13ed"><param name="Name" value="V_HELP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aaae5eb3f1ceaaca703c1caf539af3e88"><param name="Name" value="V_HOME"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a012ebf02662d81c78795a2167db787a9"><param name="Name" value="V_I"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a10479845498f32ec8f6d74b1adf89465"><param name="Name" value="V_INSERT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aab4e2a09b4ecfb6a6567e7b2c6e625ef"><param name="Name" value="V_J"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#add676e7e9d7b12a622217ae5b31cf5e1"><param name="Name" value="V_K"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#aa4e71b56302b695fe0747ddfafa4b30e"><param name="Name" value="V_L"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a602cbe47aca02f06a9a4e172c0e8f426"><param name="Name" value="V_LEFT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9444086c5f7e8e9e1fbbe529c852666a"><param name="Name" value="V_M"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a7ea214a65873ae04f139382131e05b55"><param name="Name" value="V_MENU"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4fe6250d02a672a29d51f5ff42cca16f"><param name="Name" value="V_MULTIPLY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a9962e4aebb659ea5c442618bf121d604"><param name="Name" value="V_N"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a234773417715218ef0907fcd8cd8c7df"><param name="Name" value="V_NEXT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a2267eba1cec6efca16f947b5dd51f5ee"><param name="Name" value="V_NONE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#afeeb1a2249652bdfe984ab88d9761beb"><param name="Name" value="V_NUMPAD0"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a89809aa3c60d35df45bffcf1ba2d8e83"><param name="Name" value="V_NUMPAD1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a30ebc61f2ee2d49e44cf366d3262adb6"><param name="Name" value="V_NUMPAD2"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#accb11876da43356da9c4732bd439f25b"><param name="Name" value="V_NUMPAD3"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a2553e4a030aac57b0e96aaf25670be28"><param name="Name" value="V_NUMPAD4"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#afa6738568801efc110f0d5fdcaa3fc06"><param name="Name" value="V_NUMPAD5"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a4de12edc74042c1e835dc78f1fd9d275"><param name="Name" value="V_NUMPAD6"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab617f9dbc28982b384e0853314a6ff13"><param name="Name" value="V_NUMPAD7"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a689728567b0952114261470dae39595b"><param name="Name" value="V_NUMPAD8"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ac3e5b7a4c40aaa2576d0d5d87ef1c021"><param name="Name" value="V_NUMPAD9"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a22e5c46c4f67f274106a94531b69a2ab"><param name="Name" value="V_O"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a843811ed027c241119ce263734895b9f"><param name="Name" value="V_P"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab3d56d778eb83d19f26ac6141cafb637"><param name="Name" value="V_PAUSE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a581554e6be604ef01ede3485015ed960"><param name="Name" value="V_PRINT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ae3c93d6e6e798fb5310d6c6297a2d90c"><param name="Name" value="V_PRIOR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a67b0514c3e7722727e8b9c68383ccde6"><param name="Name" value="V_Q"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ab039426750379a570b48f867d6722c1e"><param name="Name" value="V_R"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a99f64f874ff2e726c51e491ca254c374"><param name="Name" value="V_RIGHT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad87fa0f9db762a16c5af7e5e2014ffa1"><param name="Name" value="V_S"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a172e4244efb9e4bd24f28bda0c9d9f91"><param name="Name" value="V_SELECT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#af1010e0a7031fe7b8299a504d3433b3b"><param name="Name" value="V_SEPARATOR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6c2ed89dd9fd5a22925f5b41c996f7f6"><param name="Name" value="V_SHIFT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a259310ef5da6183fb1b3380838765002"><param name="Name" value="V_SNAPSHOT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a69e8edbb92321dc74a2b5c4ea8df255c"><param name="Name" value="V_SPACE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a058617de339f1f458d904c2a7b9b763e"><param name="Name" value="V_SUBTRACT"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5e21febd3b1e6df435d52f8ce40f3dd5"><param name="Name" value="V_T"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6ef5a5e96b83897bf32ebf6fc5be6d68"><param name="Name" value="V_U"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a6608741e15f47170cdfa1fe66961c3e6"><param name="Name" value="V_UP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a5204e69507a94b97a64defbda5929d9e"><param name="Name" value="V_V"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a01b41f24a33eba234a8abda30af8eb7c"><param name="Name" value="V_W"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a3b81a618d3fc660b4ac2cdd448cdff40"><param name="Name" value="V_X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#a43f31fb79e8c08a17a974ccbb55a3806"><param name="Name" value="V_Y"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_win_keyboard_8h.html#ad3a5a8f32a3f26ae7c731a417b94a096"><param name="Name" value="V_Z"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#aa7158b6f890377466027e81d02460ff6"><param name="Name" value="WinKeyboard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#ae4300e953f31340e4ce567fd36595292"><param name="Name" value="WriteSection"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a90f160df3b00fb4e7c61b338e167000b"><param name="Name" value="WriteSectionA"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a4f3a70dfc624ffa2cbc4c6b7d4485c3b"><param name="Name" value="WriteSectionW"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ac51b57a703ba1c5869228690c93e1701"><param name="Name" value="X"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#afcd3a7ff8b6bfaa9ddfc7592306b0518"><param name="Name" value="XB_NONE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html"><param name="Name" value="XboxPad.h"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a3b98e2dffc6cb06a89dcb0d5c60a0206"><param name="Name" value="A"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a9d3d9048db16a7eee539e93e3618cbe7"><param name="Name" value="B"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a8fee0efaea2d344fc8b612548d324a0e"><param name="Name" value="Back"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a4340a0b0342e88549d0ccd3171c16c5b"><param name="Name" value="DpadDown"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aa17d52fa9f1a1e8e81dc2dec2544f6eb"><param name="Name" value="DpadLeft"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ac3fb8b94a2e7154d664496d0ec2b91fa"><param name="Name" value="DpadRight"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a50547e50887a535b7968a98bbe595419"><param name="Name" value="DpadUp"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a2f523d9c780830faa7efc0fab2e72fe1"><param name="Name" value="LeftShoulder"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a93a4432f1d04ee67fe4b893101f07949"><param name="Name" value="LeftThumb"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ae1923c23b72df850f626ac98d17660d0"><param name="Name" value="LeftThumbX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aab253551a267158302da8be8533862e8"><param name="Name" value="LeftThumbY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a814b6cfe44160fa8636c726d89df1f6e"><param name="Name" value="LeftTrigger"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ad3cad40b818fa70fbc4092e49b812eb2"><param name="Name" value="PLAYER_FOUR"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ab79236d5701fcff57ad4193ed7747f0f"><param name="Name" value="PLAYER_MAX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a83c36d8b584a584e8da7ba3e346876ab"><param name="Name" value="PLAYER_ONE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ad86f4429c49da28cb2143457e139495d"><param name="Name" value="PLAYER_THREE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a3790622a985365d3ff277f3c86ef0b49"><param name="Name" value="PLAYER_TWO"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aaa2215ac13de66a1074b0334187461fd"><param name="Name" value="RightShoulder"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a84728a812db36dfb8b241e463778fa66"><param name="Name" value="RightThumb"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aac97a7b79cd7bdc73f72f71d45f37edf"><param name="Name" value="RightThumbX"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ae276e0661e88973c5a345d304771bfea"><param name="Name" value="RightThumbY"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a27e43850bebbce8268535c1a8c054a01"><param name="Name" value="RightTrigger"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#aedcef5fb0e94ecd6e477e87d7bb5b13a"><param name="Name" value="Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#ac51b57a703ba1c5869228690c93e1701"><param name="Name" value="X"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#afcd3a7ff8b6bfaa9ddfc7592306b0518"><param name="Name" value="XB_NONE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a0867f43e27585e019c13f7f4b7c4ab6b"><param name="Name" value="Y"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#aec21d08d327f9ac02c0d513e50802b02"><param name="Name" value="XboxPad"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="_xbox_pad_8h.html#a0867f43e27585e019c13f7f4b7c4ab6b"><param name="Name" value="Y"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_hash_table.html#a5aa8f18c49de4d6b774a66e6dc5be0c0"><param name="Name" value="~HashTable"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_ini_handler.html#a298b8b5d16a8ff7c43d42f3b66c5d1f3"><param name="Name" value="~IniHandler"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_input_manager.html#a0bb34282a7684357e42123bb97a76afe"><param name="Name" value="~InputManager"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_singleton.html#a85b7f1ce4edeb076c4aedd3b125e0023"><param name="Name" value="~Singleton"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_win_keyboard.html#af51f5c06c6e868c60ee3d6f11a4b06fd"><param name="Name" value="~WinKeyboard"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="classish_1_1_xbox_pad.html#afa0fb7239f65c4d7667343a8ba4d4861"><param name="Name" value="~XboxPad"></OBJECT>
+</UL>
+</BODY>
+</HTML>

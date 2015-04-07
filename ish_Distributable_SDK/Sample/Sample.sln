@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Test", "MyGame\MyGame.vcproj", "{B05BC487-996F-40E3-8E52-7536609CA1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B05BC487-996F-40E3-8E52-7536609CA1BB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B05BC487-996F-40E3-8E52-7536609CA1BB}.Debug|Win32.Build.0 = Debug|Win32
+		{B05BC487-996F-40E3-8E52-7536609CA1BB}.Release|Win32.ActiveCfg = Release|Win32
+		{B05BC487-996F-40E3-8E52-7536609CA1BB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		AMDCaProjectFile = C:\Users\Shanageek\Desktop\Ongoin Projects\Tests\bvh\CodeAnalyst\DxLibrary.caw
+		AMDCaPersistentStartup = MyGame
+		AMDCaPersistentConfig = Release|Win32
+	EndGlobalSection
+EndGlobal
